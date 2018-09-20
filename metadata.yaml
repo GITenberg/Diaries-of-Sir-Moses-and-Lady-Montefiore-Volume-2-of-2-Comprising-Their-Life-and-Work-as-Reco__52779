@@ -1,9 +1,12 @@
 _repo: Diaries-of-Sir-Moses-and-Lady-Montefiore-Volume-2-of-2-Comprising-Their-Life-and-Work-as-Reco__52779
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52779-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Montefiore, Judith Cohen, Lady
-    birthdate: &id001 1784
+    birthdate: 1784
     deathdate: 1862
     gutenberg_agent_id: '4317'
     url: http://www.gutenberg.org/2009/agents/4317
@@ -11,7 +14,7 @@ creator:
     aliases:
     - Montefiore, Moses Haim, Sir, bart.
     - Montefiore, Sir Moses
-    birthdate: *id001
+    birthdate: 1784
     deathdate: 1885
     gutenberg_agent_id: '31844'
     url: http://www.gutenberg.org/2009/agents/31844
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '31845'
     url: http://www.gutenberg.org/2009/agents/31845
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52779#Diaries-of-Sir-Moses-and-Lady-Montefiore-Volume-2-of-2-Comprising-Their-Life-and-Work-as-Reco_
 gutenberg_issued: '2016-08-11'
 gutenberg_type: Text
 identifiers:
