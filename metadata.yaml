@@ -1,0 +1,45 @@
+_repo: Diaries-of-Sir-Moses-and-Lady-Montefiore-Volume-2-of-2-Comprising-Their-Life-and-Work-as-Reco__52779
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Montefiore, Judith Cohen, Lady
+    birthdate: &id001 1784
+    deathdate: 1862
+    gutenberg_agent_id: '4317'
+    url: http://www.gutenberg.org/2009/agents/4317
+  - agent_name: Montefiore, Moses, Sir
+    aliases:
+    - Montefiore, Moses Haim, Sir, bart.
+    - Montefiore, Sir Moses
+    birthdate: *id001
+    deathdate: 1885
+    gutenberg_agent_id: '31844'
+    url: http://www.gutenberg.org/2009/agents/31844
+    wikipedia: http://en.wikipedia.org/wiki/Moses_Montefiore
+  editor:
+    agent_name: Loewe, Louis
+    birthdate: 1809
+    deathdate: 1888
+    gutenberg_agent_id: '31845'
+    url: http://www.gutenberg.org/2009/agents/31845
+description: ''
+gutenberg_issued: '2016-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Europe'
+- !lcc 'DS'
+- !lcsh 'Jews -- Biography'
+- !lcsh 'Diaries'
+- !lcsh 'Montefiore, Moses, Sir, 1784-1885'
+- !lcsh 'Palestine -- History'
+- !lcsh 'Montefiore, Judith Cohen, Lady, -1862'
+- GITenberg
+title: "Diaries of Sir Moses and Lady Montefiore, Volume 2 (of 2)\r\nComprising Their\
+  \ Life and Work as Recorded in Their Diaries, from 1812 to 1883"
+url: http://www.gutenberg.org/ebooks/52779
